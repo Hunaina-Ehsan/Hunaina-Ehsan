@@ -17,8 +17,6 @@
 
 ## 🛠️ Tech Stack  
 
-## 🛠️ Tech Stack  
-
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
@@ -26,24 +24,8 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) 
 ![MATLAB](https://img.shields.io/badge/MATLAB-ff8000?style=flat&logo=Mathworks&logoColor=white)  
 
-**Frameworks & Libraries:**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) 
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) 
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)  
-
-**Data & Engineering:**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)  
 
 
-
-**Programming Languages**  
-`Python` `C/C++` `JavaScript` `SQL` `MATLAB`  
 
 **Core AI/ML Skills**  
 - Machine Learning | Deep Learning | Neural Networks (CNN, RNN, GAN, GNN)  
@@ -53,15 +35,25 @@
 - Feature Engineering & Model Optimization  
 
 **Frameworks & Tools**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) 
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) 
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) 
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)  
 - PyTorch | TensorFlow | Keras | Scikit-learn | Stable-Baselines3  
 - OpenCV | NiBabel | FSL | PyTorch Geometric  
 - Pandas | NumPy | Matplotlib | Seaborn  
 
 **Data & Engineering**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white) 
 - Data Preprocessing | ETL Pipelines | Web/Data Scraping | APIs  
 - Shopify REST API Integration | Automation Scripts | Reverse Engineering  
 
 **DevOps / Deployment**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)  
 - Git & GitHub | Docker | MLflow (learning)  
 - Familiar with AWS & GCP basics  
 
