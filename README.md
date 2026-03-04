@@ -7,7 +7,6 @@
 ---
 
 ## 🧠 About Me  
-- 🔭 Currently working on: Revamping the **Skin Cancer Detection Using Deep Learning**  
 - 💡 Strong interest in **AI/ML, MLOps, and scalable model deployment**  
 - 🌱 Always learning: **Cloud (AWS/GCP), Docker, MLflow, advanced NLP**  
 - 🎯 Goal: **Design AI solutions that solve meaningful problems in healthcare, automation & beyond**  
