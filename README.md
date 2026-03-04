@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hunaina Ehsan  
 
-🎓 **Computer Science Graduate (NUST, 2021–2025)** | 💻 **AI Engineer in the making**  
+🎓 **Computer Science Graduate (NUST, 2021–2025)** | 💻 **Doing job stuff currently**  
 🚀 Passionate about **Deep Learning, Computer Vision, Reinforcement Learning, and Data Engineering**  
 ✨ Building cool stuff at the intersection of **AI research & real-world applications**  
 
